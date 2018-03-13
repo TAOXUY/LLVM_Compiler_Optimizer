@@ -1,0 +1,4 @@
+Error opening 'LLVMTestPass.so': LLVMTestPass.so: cannot open shared object file: No such file or directory
+  -load request ignored.
+opt: Unknown command line argument '-TestPass'.  Try: 'opt -help'
+opt: Did you mean '-stats'?
